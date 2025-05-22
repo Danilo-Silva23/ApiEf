@@ -1,0 +1,6 @@
+@MinhaApiEfPostgres_HostAddress = http://localhost:5047
+
+GET {{MinhaApiEfPostgres_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
